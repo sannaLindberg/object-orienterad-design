@@ -1,0 +1,16 @@
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/controller/Controller.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/ExternalAccountingSystem.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/ExternalCreator.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/ExternalInventorySystem.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/Item.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/ItemDTO.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/ItemID.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/integration/Printer.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/Amount.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/CashPayment.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/CashRegister.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/Quantity.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/Receipt.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/model/Sale.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/startup/Main.java
+/Users/melissakryou/POSi copy/posi/src/main/java/se/kth/iv1350/posi/view/View.java

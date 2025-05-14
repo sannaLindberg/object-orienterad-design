@@ -1,0 +1,14 @@
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/controller/ControllerTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ExternalAccountingSystemTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ExternalCreatorTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ExternalInventorySystemTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ItemDTOTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ItemIDTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/integration/ItemTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/AmountTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/CashPaymentTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/CashRegisterTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/QuantityTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/ReceiptTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/model/SaleTest.java
+/Users/melissakryou/POSi copy/posi/src/test/java/se/kth/iv1350/posi/startup/MainTest.java
